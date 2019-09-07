@@ -1,5 +1,3 @@
-# Challenge-Looping 
-
 # Program Menghitung Nilai Fraktorial
 Coding
 
